@@ -1,0 +1,58 @@
+.menu{
+    width: 20%;
+    height: 80%;
+    position: fixed;
+    border: 1px double black;    
+    background-color: none; 
+    top:5%;
+    right:1%;
+    text-align: center;
+}
+
+.menu2{
+    width: 20%;
+    height: 80%;
+    border: 1px double black;
+    position: fixed;
+    background-color: none;
+    top:5%;
+    left:1%;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    border: black;
+    text-decoration: underline;
+    background-color: white;
+    border-style: double solid;
+    font-family: 'Arial Narrow';
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+
+}
+
+.box1{
+    width:56%;
+    height:80%;
+    border: 1px solid black;
+    background-color: lightgray;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: auto;
+}
+
+.box2{
+    width:56%;
+    height:80%;
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: auto;
+}
